@@ -8,7 +8,7 @@ Aquest repositori conté una **recopilació de versos i poemes** escrits durant 
 
 ### Objectiu i Format
 L'objectiu d'aquest espai a GitHub és doble:
-*   **Salvaguarda:** Servir com a sistema de preservació i còpia de seguretat de l'històric de textos publicats originalment a [www.lluisribes.net](https://www.lluisribes.net) [6].
+*   **Salvaguarda:** Servir com a sistema de preservació i còpia de seguretat de l'històric de textos publicats originalment a [www.lluisribes.net](https://www.lluisribes.net).
 *   **Accessibilitat Tècnica:** Oferir el contingut en un format còmode i universal com és el **.md (Markdown)**. Aquesta elecció facilita el tractament dels textos mitjançant eines d'anàlisi de dades, gestors de coneixement personal i el processament a través de models de llenguatge (LLM).
 
 ---
@@ -24,5 +24,5 @@ The goal of this GitHub space is twofold:
 
 ---
 
-*“La tortuga pot parlar més del camí que la llebre”* – Khalil Gibran [6].
+*“La tortuga pot parlar més del camí que la llebre”* – Khalil Gibran.
 Si vis amari, ama.
